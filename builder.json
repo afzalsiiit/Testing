@@ -1,0 +1,22 @@
+{
+  "project": "app2",
+  "platform": "ios",
+  "github": {
+    "owner": "afzalsiiit",
+    "repo": "IOSDeploy2"
+  },
+  "provider": "github",
+  "codemagic": {},
+  "bitrise": {},
+  "ios": {
+    "path": "ios",
+    "bundleId": "com.example.app2"
+  },
+  "flutter": {
+    "version": "3.47.2",
+    "watch": {}
+  },
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
+}
